@@ -5,7 +5,7 @@ module.exports = {
     browser
       .url(process.env.VUE_DEV_SERVER_URL)
       .waitForElementVisible('#select-musician', 5000)
-      .click('#select-larryc')
+      .click('#select-dennyd')
       .click('#next-page');
   },
   'and thinks about guitar': guitar.pages,
