@@ -8,9 +8,7 @@ const musician = {
 };
 
 module.exports = {
-  'Tom Scott opens the app': (browser) => {
-    (helpers.selectMusician)(browser, process, musician);
-  },
+  'Tom Scott opens the app': helpers.selectMusician.bind(null, musician, process),
   'and thinks about saxophone': saxophone.pages,
   'and remembers Aja': aja.pages,
   'and remembers Gaucho': gaucho.pages,
