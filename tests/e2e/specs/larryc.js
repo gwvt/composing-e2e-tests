@@ -1,25 +1,31 @@
-const guitar = require('../sequences/instruments/guitar.js');
-const aja = require('../sequences/albums/aja.js');
-const gaucho = require('../sequences/albums/gaucho.js');
-const katyLied = require('../sequences/albums/katy-lied.js');
-const theRoyalScam = require('../sequences/albums/the-royal-scam.js');
+const camel = require('to-camel-case');
+
+const instruments = require('../sequences/instruments/all.js');
+const albums = require('../sequences/albums/all.js');
 const helpers = require('../helpers.js');
 
-const musician = {
-  code: 'larryc',
+const data = require('../data-api/data.js');
+const queries = require('../data-api/queries.js');
+
+const musicianCode = 'larryc';
+
+const musician = queries.musicianFromCode(data.musicians, musicianCode);
+musician.albumsPlayedOn = queries.albumsPlayedOn(data.albums, musician);
+
+const tests = {};
+
+tests[`${musician.name} opens the app`] = function test(browser) {
+  (helpers.selectMusician.bind(this, browser, process, musician))();
 };
 
-module.exports = {
-  'Larry Carlton opens the app': (browser) => {
-    (helpers.selectMusician.bind(null, browser, process, musician))();
-  },
-  'and thinks about guitar': guitar.pages,
-  'and remembers Aja': aja.pages,
-  'and remembers Gaucho': gaucho.pages,
-  'and remembers Katy Lied': katyLied.pages,
-  'and remembers The Royal Scam': theRoyalScam.pages,
-  'and leaves the app': (browser) => {
-    browser
-      .end();
-  },
+tests[`and thinks about ${musician.instruments.main}`] = instruments[musician.instruments.main].pages;
+
+musician.albumsPlayedOn.forEach((a) => {
+  tests[`and remembers ${a.title}`] = albums[camel(a.code)].pages;
+});
+
+tests['and leaves the app'] = function test(browser) {
+  browser.end();
 };
+
+module.exports = tests;
