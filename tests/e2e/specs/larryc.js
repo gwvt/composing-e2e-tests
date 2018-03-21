@@ -1,4 +1,5 @@
 const guitar = require('../sequences/instruments/guitar.js');
+const aja = require('../sequences/albums/aja.js');
 
 module.exports = {
   'Larry Carlton opens the app': (browser) => {
@@ -9,24 +10,9 @@ module.exports = {
       .click('#next-page');
   },
   'and thinks about guitar': guitar.pages,
-  'and remembers Aja': (browser) => {
+  'and remembers Aja': aja.pages,
+  'and leaves the app': (browser) => {
     browser
-      .waitForElementVisible('#select-album', 5000)
-      .click('#select-aja')
-      .click('#next-page')
-      .waitForElementVisible('#album-aja-1', 5000)
-      .assert.containsText('.title', 'Aja')
-      .waitForElementVisible('#next-page', 5000)
-      .click('#next-page')
-      .waitForElementVisible('#album-aja-2', 5000)
-      .assert.containsText('.title', 'Aja')
-      .waitForElementVisible('#next-page', 5000)
-      .click('#next-page')
-      .waitForElementVisible('#album-aja-3', 5000)
-      .assert.containsText('.title', 'Aja')
-      .waitForElementVisible('#next-page', 5000)
-      .click('#next-page')
-      .waitForElementVisible('#select-album', 5000)
       .end();
   },
 };
