@@ -14,9 +14,7 @@ musician.albumsPlayedOn = queries.albumsPlayedOn(data.albums, musician);
 
 const tests = {};
 
-tests[`${musician.name} opens the app`] = function test(browser) {
-  (helpers.selectMusician.bind(this, browser, process, musician))();
-};
+tests[`${musician.name} opens the app`] = helpers.selectMusician.bind(null, musician, process);
 
 tests[`and thinks about ${musician.instruments.main}`] = instruments[musician.instruments.main].pages;
 

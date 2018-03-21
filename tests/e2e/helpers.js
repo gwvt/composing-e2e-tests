@@ -1,5 +1,5 @@
 module.exports = {
-  selectMusician: (browser, process, musician) => {
+  selectMusician: (musician, process, browser) => {
     browser
       .url(process.env.VUE_DEV_SERVER_URL)
       .waitForElementVisible('#select-musician', 5000)
