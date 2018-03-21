@@ -5,7 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve --open",
     "build": "vue-cli-service build",
-    "e2e": "vue-cli-service e2e",
+    "e2e": "tests/e2e/run-tests.sh",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
