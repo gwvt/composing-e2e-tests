@@ -1,14 +1,16 @@
+const guitar = require('../sequences/instruments/guitar.js');
+
 module.exports = {
-  'Larry Carlton remembers Gaucho': (browser) => {
+  'Larry Carlton opens the app': (browser) => {
     browser
       .url(process.env.VUE_DEV_SERVER_URL)
       .waitForElementVisible('#select-musician', 5000)
       .click('#select-larryc')
-      .click('#next-page')
-      .waitForElementVisible('#instrument-guitar-1', 5000)
-      .assert.containsText('.title', 'Guitar')
-      .waitForElementVisible('#next-page', 5000)
-      .click('#next-page')
+      .click('#next-page');
+  },
+  'and thinks about guitar': guitar.pages,
+  'and remembers Aja': (browser) => {
+    browser
       .waitForElementVisible('#select-album', 5000)
       .click('#select-aja')
       .click('#next-page')
