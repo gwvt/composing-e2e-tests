@@ -1,0 +1,88 @@
+{
+  "musicians": [
+    {
+      "name": "Tom Scott",
+      "code": "toms",
+      "instruments": {
+        "main": "saxophone"
+      }
+    },
+    {
+      "name": "Plas Johnson",
+      "code": "plasj",
+      "instruments": {
+        "main": "saxophone"
+      }
+    },
+    {
+      "name": "David Paich",
+      "code": "davidp",
+      "instruments": {
+          "main": "keyboard"
+      }
+    },
+    {
+      "name": "Michael Omartian",
+      "code": "michaelo",
+      "instruments": {
+          "main": "keyboard"
+      }
+    },
+    {
+      "name": "Larry Carlton",
+      "code": "larryc",
+      "instruments": {
+        "main": "guitar"
+      }
+    },
+    {
+      "name": "Denny Dias",
+      "code": "dennyd",
+      "instruments": {
+        "main": "guitar"
+      }
+    },
+    {
+      "name": "Elliott Randall",
+      "code": "elliottr",
+      "instruments": {
+        "main": "guitar"
+      }
+    },
+    {
+      "name": "Chuck Rainey",
+      "code": "chuckr",
+      "instruments": {
+        "main": "bass"
+      }
+    },
+    {
+      "name": "Wilton Felder",
+      "code": "wiltonf",
+      "instruments": {
+        "main": "bass"
+      }
+    },
+    {
+      "name": "Steve Gadd",
+      "code": "steveg",
+      "instruments": {
+        "main": "drums"
+      }
+    },
+    {
+      "name": "Jeff Porcaro",
+      "code": "jeffp",
+      "instruments": {
+        "main": "drums"
+      }
+    },
+    {
+      "name": "Bernard \"Pretty\" Purdie",
+      "code": "bernardp",
+      "instruments": {
+        "main": "drums"
+      }
+    }
+  ]
+}

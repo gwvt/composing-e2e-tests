@@ -1,0 +1,1559 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "title": "Can't Buy a Thrill",
+      "code": "cant-buy-a-thrill",
+      "year": 1972,
+      "label": "ABC Records",
+      "tracks": [
+        "Do It Again",
+        "Dirty Work",
+        "Kings",
+        "Midnite Cruiser",
+        "Only a Fool Would Say That",
+        "Reelin' in the Years",
+        "Fire in the Hole",
+        "Brooklyn (Owes the Charmer Under Me)",
+        "Change of the Guard",
+        "Turn That Heartbeat Over Again"
+      ],
+      "studios": [
+        {
+          "name": "The Village Recorder",
+          "location": "Los Angeles, CA"
+        }
+      ],
+      "musicians": [
+        {
+          "name": "David Palmer",
+          "instruments":  [
+            "lead vocal",
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Donald Fagen",
+          "instruments": [
+            "acousti piano",
+            "electric piano",
+            "plastic (YC-30) organ",
+            "lead vocal",
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Jeff \"Skunk\" Baxter",
+          "instruments": [
+            "guitar",
+            "pedal steel guitar",
+            "spoken word"
+          ]
+        },
+        {
+          "name": "Denny Dias",
+          "instruments": [
+            "guitar",
+            "electric sitar"
+          ]
+        },
+        {
+          "name": "Walter Becker",
+          "instruments": [
+            "electric bass",
+            "backing vocal",
+            "dual lead vocal"
+          ]
+        },
+        {
+          "name": "Jim Hodder",
+          "instruments": [
+            "drums",
+            "percussion",
+            "lead vocal",
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Elliott Randall",
+          "instruments": [
+            "lead guitar"
+          ]
+        },
+        {
+          "name": "Jerome Richardson",
+          "instruments": [
+            "tenor saxophone"
+          ]
+        },
+        {
+          "name": "Snooky Young",
+          "instruments": [
+            "flugelhorn"
+          ]
+        },
+        {
+          "name": "Victor Feldman",
+          "instruments": [
+            "percussion"
+          ]
+        },
+        {
+          "name": "Venetta Fields",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Clydie King",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Sherlie Matthews",
+          "instruments": [
+            "backing vocal"
+          ]
+        }
+      ],
+      "producers": [
+        {
+          "name": "Gary Katz",
+          "title": "Producer"
+        }
+      ],
+      "engineers": [
+        {
+          "name": "Roger Nichols",
+          "title": "Engineer"
+        },
+        {
+          "name": "Tim Weston",
+          "title": "Assistant Engineer"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Countdown to Ecstasy",
+      "code": "countdown-to-ecstasy",
+      "year": 1973,
+      "label": "ABC Records",
+      "tracks": [
+        "Bodhisattva",
+        "Razor Boy",
+        "The Boston Rag",
+        "Your Gold Teeth",
+        "Show Biz Kids",
+        "My Old School",
+        "Pearl of the Quarter",
+        "King of the World"
+      ],
+      "studios": [
+        {
+          "name": "Caribou Ranch",
+          "location": "Nederland, CO"
+        },
+        {
+          "name": "The Village Recorder",
+          "location": "Los Angeles, CA"
+        }
+      ],
+      "musicians": [
+        {
+          "name": "Donald Fagen",
+          "instruments": [
+            "acoustic piano",
+            "electric piano",
+            "synthesizer",
+            "lead vocal",
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Jeff \"Skunk\" Baxter",
+          "instruments": [
+            "electric guitar",
+            "pedal steel guitar"
+          ]
+        },
+        {
+          "name": "Denny Dias",
+          "instruments": [
+            "electric guitar"
+          ]
+        },
+        {
+          "name": "Walter Becker",
+          "instruments": [
+            "electric bass",
+            "backing vocal",
+            "harmonica"
+          ]
+        },
+        {
+          "name": "Jim Hodder",
+          "instruments": [
+            "drums",
+            "percussion",
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Myrna Matthews",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Patricia Hall",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Sherlie Matthews",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "David Palmer",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "James Rolleston",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Michael Fennelly",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Ray Brown",
+          "instruments": [
+            "string bass"
+          ]
+        },
+        {
+          "name": "Ben Benay",
+          "instruments": [
+            "acoustic guitar"
+          ]
+        },
+        {
+          "name": "Rick Derringer",
+          "instruments": [
+            "slide guitar"
+          ]
+        },
+        {
+          "name": "Victor Feldman",
+          "instruments": [
+            "vibraphone",
+            "marimba",
+            "percussion"
+          ]
+        },
+        {
+          "name": "Ernie Watts",
+          "instruments": [
+            "saxophone"
+          ]
+        },
+        {
+          "name": "Johnny Rotella",
+          "instruments": [
+            "saxophone"
+          ]
+        },
+        {
+          "name": "Lanny Morgan",
+          "instruments": [
+            "saxophone"
+          ]
+        },
+        {
+          "name": "Bill Perkins",
+          "instruments": [
+            "saxophone"
+          ]
+        }
+      ],
+      "producers": [
+        {
+          "name": "Gary Katz",
+          "title": "Producer"
+        }
+      ],
+      "engineers": [
+        {
+          "name": "Roger Nichols",
+          "title": "Engineer"
+        },
+        {
+          "name": "Miss Natalie",
+          "title": "Assistant Engineer"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pretzel Logic",
+      "code": "pretzel-logic",
+      "year": 1974,
+      "label": "ABC Records",
+      "tracks": [
+        "Rikki Don't Lose That Number",
+        "Night by Night",
+        "Any Major Dude Will Tell You",
+        "Barrytown",
+        "East St. Louis Toodle-Oo",
+        "Parker's Band",
+        "Through with Buzz",
+        "Pretzel Logic",
+        "With a Gun",
+        "Charlie Freak",
+        "Monkey in Your Soul"
+      ],
+      "studios": [
+        {
+          "name": "The Village Recorder",
+          "location": "Los Angeles, CA"
+        }
+      ],
+      "musicians": [
+        {
+          "name": "Donald Fagen",
+          "instruments": [
+            "keyboards",
+            "saxophone",
+            "lead vocal",
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Walter Becker",
+          "instruments": [
+            "bass",
+            "backing vocal",
+            "guitar"
+          ]
+        },
+        {
+          "name": "Jeff \"Skunk\" Baxter",
+          "instruments": [
+            "lead guitar",
+            "pedal steel guitar"
+          ]
+        },
+        {
+          "name": "Denny Dias",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Jim Hodder",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Michael Omartian",
+          "instruments": [
+            "keyboards"
+          ]
+        },
+        {
+          "name": "David Paich",
+          "instruments": [
+            "keyboards"
+          ]
+        },
+        {
+          "name": "Ben Benay",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Dean Parks",
+          "instruments": [
+            "guitar, banjo"
+          ]
+        },
+        {
+          "name": "Plas Johnson",
+          "instruments": [
+            "saxophone"
+          ]
+        },
+        {
+          "name": "Jerome Richardson",
+          "instruments": [
+            "saxophone"
+          ]
+        },
+        {
+          "name": "Ernie Watts",
+          "instruments": [
+            "saxophone"
+          ]
+        },
+        {
+          "name": "Ollie Mitchell",
+          "instruments": [
+            "trumpet"
+          ]
+        },
+        {
+          "name": "Lew McCreary",
+          "instruments": [
+            "trombone"
+          ]
+        },
+        {
+          "name": "Timothy B. Schmit",
+          "instruments": [
+            "background vocal"
+          ]
+        },
+        {
+          "name": "Wilton Felder",
+          "instruments": [
+            "bass"
+          ]
+        },
+        {
+          "name": "Chuck Rainey",
+          "instruments": [
+            "bass"
+          ]
+        },
+        {
+          "name": "Jim Gordon",
+          "instruments": [
+            "drums"
+          ]
+        },
+        {
+          "name": "Jeff Porcaro",
+          "instruments": [
+            "drums"
+          ]
+        },
+        {
+          "name": "Victor Feldman",
+          "instruments": [
+            "percussion"
+          ]
+        },
+        {
+          "name": "Roger Nichols",
+          "instruments": [
+            "gong"
+          ]
+        }
+      ],
+      "producers": [
+        {
+          "name": "Gary Katz",
+          "title": "Producer"
+        }
+      ],
+      "engineers": [
+        {
+          "name": "Roger Nichols",
+          "title": "Engineer"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Katy Lied",
+      "code": "katy-lied",
+      "year": 1975,
+      "label": "ABC Records",
+      "tracks": [
+        "Black Friday",
+        "Bad Sneakers",
+        "Rose Darling",
+        "Daddy Don't Live in that New York City No More",
+        "Doctor Wu",
+        "Everyone's Gone to the Movies",
+        "Your Gold Teeth II",
+        "Chain Lightning",
+        "Any World (That I'm Welcome To)",
+        "Throw Back the Little Ones"
+      ],
+      "studios": [
+        {
+          "name": "ABC",
+          "location": "Los Angeles, CA"
+        }
+      ],
+      "musicians": [
+        {
+          "name": "Donald Fagen",
+          "instruments": [
+            "vocal",
+            "piano",
+            "keyboards",
+            "saxophone"
+          ]
+        },
+        {
+          "name": "Walter Becker",
+          "instruments": [
+            "bass",
+            "guitar"
+          ]
+        },
+        {
+          "name": "Michael Omartian",
+          "instruments": [
+            "piano",
+            "keyboards"
+          ]
+        },
+        {
+          "name": "David Paich",
+          "instruments": [
+            "piano",
+            "keyboards"
+          ]
+        },
+        {
+          "name": "Hugh McCracken",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Denny Dias",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Rick Derringer",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Dean Parks",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Elliott Randall",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Larry Carlton",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Wilton Felder",
+          "instruments": [
+            "bass guitar"
+          ]
+        },
+        {
+          "name": "Chuck Rainey",
+          "instruments": [
+            "bass guitar"
+          ]
+        },
+        {
+          "name": "Jeff Porcaro",
+          "instruments": [
+            "drums",
+            "dorophone"
+          ]
+        },
+        {
+          "name": "Hal Blaine",
+          "instruments": [
+            "drums"
+          ]
+        },
+        {
+          "name": "Victor Feldman",
+          "instruments": [
+            "vibraphone",
+            "percussion"
+          ]
+        },
+        {
+          "name": "Phil Woods",
+          "instruments": [
+            "alto saxophone"
+          ]
+        },
+        {
+          "name": "Jimmie Haskell",
+          "instruments": [
+            "horn"
+          ]
+        },
+        {
+          "name": "Bill Perkins",
+          "instruments": [
+            "horn"
+          ]
+        },
+        {
+          "name": "Michael McDonald",
+          "instruments": [
+            "background vocal"
+          ]
+        },
+        {
+          "name": "Myrna Matthews",
+          "instruments": [
+            "background vocal"
+          ]
+        },
+        {
+          "name": "Sherlie Matthews",
+          "instruments": [
+            "background vocal"
+          ]
+        },
+        {
+          "name": "Carolyn Willis",
+          "instruments": [
+            "background vocal"
+          ]
+        }
+      ],
+      "producers": [
+        {
+          "name": "Gary Katz",
+          "title": "Producer"
+        }
+      ],
+      "engineers": [
+        {
+          "name": "Roger Nichols",
+          "title": "Engineer"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "The Royal Scam",
+      "code": "the-royal-scam",
+      "year": 1976,
+      "tracks": [
+        "Kid Charlemagne",
+        "The Caves of Altamira",
+        "Don't Take Me Alive",
+        "Sign In Stranger",
+        "The Fez",
+        "Green Earrings",
+        "Haitian Divorce",
+        "Everything You Did",
+        "The Royal Scam"
+      ],
+      "studios": [
+        {
+          "name": "ABC Studios",
+          "location": "Los Angeles"
+        },
+        {
+          "name": "A&R Studios",
+          "location": "New York, NY"
+        }
+      ],
+      "musicians": [
+        {
+          "name": "Donald Fagen",
+          "instruments": [
+            "keyboards",
+            "vocal",
+            "background vocal"
+          ]
+        },
+        {
+          "name": "Walter Becker",
+          "instruments": [
+            "bass",
+            "guitar"
+          ]
+        },
+        {
+          "name": "Paul Griffin",
+          "instruments": [
+            "keyboards"
+          ]
+        },
+        {
+          "name": "Don Grolnick",
+          "instruments": [
+            "keyboards"
+          ]
+        },
+        {
+          "name": "Denny Dias",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Larry Carlton",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Dean Parks",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Elliott Randall",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Mark Davis",
+          "instruments": [
+            "bass"
+          ]
+        },
+        {
+          "name": "Jim Horn",
+          "instruments": [
+            "saxophone"
+          ]
+        },
+        {
+          "name": "Plas Johnson",
+          "instruments": [
+            "saxophone"
+          ]
+        },
+        {
+          "name": "John Klemmer",
+          "instruments": [
+            "saxophone"
+          ]
+        },
+        {
+          "name": "Chuck Findley",
+          "instruments": [
+            "trumpet"
+          ]
+        },
+        {
+          "name": "Bob Findley",
+          "instruments": [
+            "horn"
+          ]
+        },
+        {
+          "name": "Dick \"Slyde\" Hyde",
+          "instruments": [
+            "horn",
+            "trombone"
+          ]
+        },
+        {
+          "name": "Chuck Rainey",
+          "instruments": [
+            "bass"
+          ]
+        },
+        {
+          "name": "Rick Marotta",
+          "instruments": [
+            "drums"
+          ]
+        },
+        {
+          "name": "Bernard \"Pretty\" Purdie",
+          "instruments": [
+            "drums"
+          ]
+        },
+        {
+          "name": "Gary Coleman",
+          "instruments": [
+            "percussion"
+          ]
+        },
+        {
+          "name": "Victor Feldman",
+          "instruments": [
+            "percussion",
+            "keyboards"
+          ]
+        },
+        {
+          "name": "Timothy B. Schmit",
+          "instruments": [
+            "background vocal"
+          ]
+        },
+        {
+          "name": "Venetta Fields",
+          "instruments": [
+            "background vocal"
+          ]
+        },
+        {
+          "name": "Clydie King",
+          "instruments": [
+            "background vocal"
+          ]
+        },
+        {
+          "name": "Sherlie Matthews",
+          "instruments": [
+            "background vocal"
+          ]
+        },
+        {
+          "name": "Michael McDonald",
+          "instruments": [
+            "background vocal"
+          ]
+        }
+      ],
+      "producers": [
+        {
+          "name": "Gary Katz",
+          "title": "Producer"
+        }
+      ],
+      "engineers": [
+        {
+          "name": "Roger Nichols",
+          "title": "Engineer"
+        },
+        {
+          "name": "Barney Perkins",
+          "title": "Mixdown Engineer"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Aja",
+      "code": "aja",
+      "year": 1977,
+      "label": "ABC Records",
+      "tracks": [
+        "Black Cow",
+        "Aja",
+        "Deacon Blues",
+        "Peg",
+        "Home at Last",
+        "I Got the News",
+        "Josie"
+      ],
+      "studios": [
+        {
+          "name": "The Village Recorder",
+          "location": "Los Angeles, CA"
+        },
+        {
+          "name": "Producer's Workshop",
+          "location": "Hollywood, CA"
+        },
+        {
+          "name": "Warner Bros Studios",
+          "location": "Burbank, CA"
+        },
+        {
+          "name": "ABC Recording Studios",
+          "location": "New York, NY"
+        },
+        {
+          "name": "Sound Labs",
+          "location": "Hollywood, CA"
+        },
+        {
+          "name": "A&R Studios",
+          "location": "New York, NY"
+        }
+      ],
+      "musicians": [
+        {
+          "name": "Donald Fagen",
+          "instruments": [
+            "lead vocal",
+            "synthesizer",
+            "police whistle",
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Walter Becker",
+          "instruments": [
+            "bass",
+            "guitar"
+          ]
+        },
+        {
+          "name": "Victor Feldman",
+          "instruments": [
+            "electric piano",
+            "vibraphone",
+            "piano",
+            "percussion"
+          ]
+        },
+        {
+          "name": "Joe Sample",
+          "instruments": [
+            "electric piano",
+            "Hohner Clavinet"
+          ]
+        },
+        {
+          "name": "Paul Griffin",
+          "instruments": [
+            "electric piano",
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Michael Omartian",
+          "instruments": [
+            "piano"
+          ]
+        },
+        {
+          "name": "Don Grolnick",
+          "instruments": [
+            "Hohner Clavinet"
+          ]
+        },
+        {
+          "name": "Larry Carlton",
+          "instruments": [
+            "guitar",
+            "guitar"
+          ]
+        },
+        {
+          "name": "Lee Ritenour",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Denny Dias",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Dean Parks",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Steve Khan",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Jay Graydon",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Chuck Rainey",
+          "instruments": [
+            "bass"
+          ]
+        },
+        {
+          "name": "Paul Humphrey",
+          "instruments": [
+            "drums"
+          ]
+        },
+        {
+          "name": "Steve Gadd",
+          "instruments": [
+            "drums"
+          ]
+        },
+        {
+          "name": "Bernard \"Pretty\" Purdie",
+          "instruments": [
+            "drums"
+          ]
+        },
+        {
+          "name": "Rick Marotta",
+          "instruments": [
+            "drums"
+          ]
+        },
+        {
+          "name": "Ed Greene",
+          "instruments": [
+            "drums"
+          ]
+        },
+        {
+          "name": "Jim Keltner",
+          "instruments": [
+            "drums",
+            "percussion"
+          ]
+        },
+        {
+          "name": "Gary Coleman",
+          "instruments": [
+            "percussion"
+          ]
+        },
+        {
+          "name": "Tom Scott",
+          "instruments": [
+            "tenor saxophone",
+            "Lyricon"
+          ]
+        },
+        {
+          "name": "Wayne Shorter",
+          "instruments": [
+            "tenor saxophone"
+          ]
+        },
+        {
+          "name": "Pete Christlieb",
+          "instruments": [
+            "tenor saxophone"
+          ]
+        },
+        {
+          "name": "Jim Horn",
+          "instruments": [
+            "saxes/flutes"
+          ]
+        },
+        {
+          "name": "Bill Perkins",
+          "instruments": [
+            "saxes/flutes"
+          ]
+        },
+        {
+          "name": "Plas Johnson",
+          "instruments": [
+            "saxes/flutes"
+          ]
+        },
+        {
+          "name": "Jackie Kelso",
+          "instruments": [
+            "saxes/flutes"
+          ]
+        },
+        {
+          "name": "Chuck Findley",
+          "instruments": [
+            "brass"
+          ]
+        },
+        {
+          "name": "Lou McCreary",
+          "instruments": [
+            "brass"
+          ]
+        },
+        {
+          "name": "Dick \"Slyde\" Hyde",
+          "instruments": [
+            "brass"
+          ]
+        },
+        {
+          "name": "Michael McDonald",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Timothy B. Schmit",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Clydie King",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Sherlie Matthews",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Venetta Fields",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Rebecca Louis",
+          "instruments": [
+            "backing vocal"
+          ]
+        }
+      ],
+      "producers": [
+        {
+          "name": "Gary Katz",
+          "title": "Producer"
+        }
+      ],
+      "engineers": [
+        {
+          "name": "Roger Nichols",
+          "title": "Engineer"
+        },
+        {
+          "name": "Elliot Scheiner",
+          "title": "Engineer"
+        },
+        {
+          "name": "Al Schmitt",
+          "title": "Engineer"
+        },
+        {
+          "name": "Bill Schnee",
+          "title": "Engineer"
+        },
+        {
+          "name": "Joe Bellamy",
+          "title": "Assistant Engineer"
+        },
+        {
+          "name": "Lenise Bent",
+          "title": "Assistant Engineer"
+        },
+        {
+          "name": "Ken Klinger",
+          "title": "Assistant Engineer"
+        },
+        {
+          "name": "Ron Pangaliman",
+          "title": "Assistant Engineer"
+        },
+        {
+          "name": "Ed Rack",
+          "title": "Assistant Engineer"
+        },
+        {
+          "name": "Linda Tyler",
+          "title": "Assistant Engineer"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Gaucho",
+      "code": "gaucho",
+      "year": 1980,
+      "label": "MCA",
+      "tracks": [
+        "Babylon Sisters",
+        "Hey Nineteen",
+        "Glamour Profession",
+        "Gaucho",
+        "Time Out of Mind",
+        "My Rival",
+        "Third World Man"
+      ],
+      "studios": [
+        {
+          "name": "Sigma Sound Studios",
+          "location": "New York, NY"
+        },
+        {
+          "name": "The Village Recorder",
+          "location": "Los Angeles, CA"
+        },
+        {
+          "name": "Soundworks",
+          "location": "New York, NY"
+        },
+        {
+          "name": "Automated Sound",
+          "location": "New York, NY"
+        },
+        {
+          "name": "A&R Studios",
+          "location": "New York, NY"
+        },
+        {
+          "name": "Producer's Workshop",
+          "location": "Hollywood, CA"
+        }
+      ],
+      "musicians": [
+        {
+          "name": "Donald Fagen",
+          "instruments": [
+            "lead vocal",
+            "synthesizer",
+            "electric piano",
+            "organ"
+          ]
+        },
+        {
+          "name": "Walter Becker",
+          "instruments": [
+            "bass",
+            "guitar",
+            "guitar solo"
+          ]
+        },
+        {
+          "name": "Rob Mounsey",
+          "instruments": [
+            "piano",
+            "synthesizer"
+          ]
+        },
+        {
+          "name": "Don Grolnick",
+          "instruments": [
+            "electric piano",
+            "Hohner Clavinet"
+          ]
+        },
+        {
+          "name": "Pat Rebillot",
+          "instruments": [
+            "electric piano"
+          ]
+        },
+        {
+          "name": "Joe Sample",
+          "instruments": [
+            "electric piano"
+          ]
+        },
+        {
+          "name": "Steve Khan",
+          "instruments": [
+            "guitar",
+            "lead guitar"
+          ]
+        },
+        {
+          "name": "Mark Knopfler",
+          "instruments": [
+            "lead guitar"
+          ]
+        },
+        {
+          "name": "Larry Carlton",
+          "instruments": [
+            "lead guitar"
+          ]
+        },
+        {
+          "name": "Hugh McCracken",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Hiram Bullock",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Rick Derringer",
+          "instruments": [
+            "guitar"
+          ]
+        },
+        {
+          "name": "Chuck Rainey",
+          "instruments": [
+            "bass"
+          ]
+        },
+        {
+          "name": "Anthony Jackson",
+          "instruments": [
+            "bass"
+          ]
+        },
+        {
+          "name": "Bernard \"Pretty\" Purdie",
+          "instruments": [
+            "drums"
+          ]
+        },
+        {
+          "name": "Rick Marotta",
+          "instruments": [
+            "drums"
+          ]
+        },
+        {
+          "name": "Steve Gadd",
+          "instruments": [
+            "drums",
+            "percussion"
+          ]
+        },
+        {
+          "name": "Jeff Porcaro",
+          "instruments": [
+            "drums"
+          ]
+        },
+        {
+          "name": "Errol \"Crusher\" Bennett",
+          "instruments": [
+            "percussion"
+          ]
+        },
+        {
+          "name": "Victor Feldman",
+          "instruments": [
+            "percussion"
+          ]
+        },
+        {
+          "name": "Ralph MacDonald",
+          "instruments": [
+            "percussion"
+          ]
+        },
+        {
+          "name": "Nicholas Marrero",
+          "instruments": [
+            "percussion"
+          ]
+        },
+        {
+          "name": "George Marge",
+          "instruments": [
+            "clarinet"
+          ]
+        },
+        {
+          "name": "Walter Kane",
+          "instruments": [
+            "clarinet"
+          ]
+        },
+        {
+          "name": "Tom Scott",
+          "instruments": [
+            "alto saxophone",
+            "clarinet",
+            "tenor saxophone",
+            "Lyricon"
+          ]
+        },
+        {
+          "name": "David Sanborn",
+          "instruments": [
+            "alto saxophone"
+          ]
+        },
+        {
+          "name": "Michael Brecker",
+          "instruments": [
+            "tenor saxophone"
+          ]
+        },
+        {
+          "name": "Dave Tofani",
+          "instruments": [
+            "tenor saxophone"
+          ]
+        },
+        {
+          "name": "Ronnie Cuber",
+          "instruments": [
+            "baritone saxophone"
+          ]
+        },
+        {
+          "name": "Randy Brecker",
+          "instruments": [
+            "trumpet",
+            "flugelhorn"
+          ]
+        },
+        {
+          "name": "Wayne Andre",
+          "instruments": [
+            "trombone"
+          ]
+        },
+        {
+          "name": "Michael McDonald",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+
+        {
+          "name": "Patti Austin",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Valerie Simpson",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Frank Floyd",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Diva Gray",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Lani Groves",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Leslie Miller",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Zachary Sanders",
+          "instruments": [
+            "backing vocal"
+          ]
+        },
+        {
+          "name": "Toni Wine",
+          "instruments": [
+            "alto saxophone"
+          ]
+        }
+      ],
+      "producers": [
+        {
+          "name": "Gary Katz",
+          "title": "Producer"
+        },
+        {
+          "name": "Paul Bishow",
+          "title": "Executive Producer"
+        },
+        {
+          "name": "Roger Nichols",
+          "title": "Executive Producer"
+        }
+      ],
+      "engineers": [
+        {
+          "name": "Roger Nichols",
+          "title": "Executive Engineer"
+        },
+        {
+          "name": "John \"Doc\" Daugherty",
+          "title": "Assistant Engineer"
+        },
+        {
+          "name": "Gerry Gabinelli",
+          "title": "Assistant Engineer"
+        },
+        {
+          "name": "Craig Goetsch",
+          "title": "Assistant Engineer"
+        },
+        {
+          "name": "Tom Greto",
+          "title": "Assistant Engineer"
+        },
+        {
+          "name": "Barbara Isaak",
+          "title": "Assistant Engineer"
+        },
+        {
+          "name": "Georgia Offrell",
+          "title": "Assistant Engineer"
+        },
+        {
+          "name": "John Potoker",
+          "title": "Assistant Engineer"
+        },
+        {
+          "name": "Linda Randazzo",
+          "title": "Assistant Engineer"
+        },
+        {
+          "name": "Marti Robertson",
+          "title": "Assistant Engineer"
+        },
+        {
+          "name": "Carla Bandini",
+          "title": "Assistant Engineer"
+        },
+        {
+          "name": "Elliot Scheiner",
+          "title": "Tracking"
+        },
+        {
+          "name": "Bill Schnee",
+          "title": "Tracking"
+        },
+        {
+          "name": "Elliot Scheiner",
+          "title": "Mixing"
+        },
+        {
+          "name": "Elliot Scheiner",
+          "title": "Mixing"
+        }
+      ]
+    }
+  ]
+}
