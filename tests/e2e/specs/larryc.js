@@ -11,7 +11,7 @@ const musician = {
 
 module.exports = {
   'Larry Carlton opens the app': (browser) => {
-    (helpers.selectMusician.bind(null, browser, process, musician))();
+    (helpers.selectMusician)(browser, process, musician);
   },
   'and thinks about guitar': guitar.pages,
   'and remembers Aja': aja.pages,
