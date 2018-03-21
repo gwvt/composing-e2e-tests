@@ -1,0 +1,107 @@
+{
+  "albumsPages": [
+    {
+      "albumTitle": "Can't Buy a Thrill",
+      "pages": [
+        {
+          "id": 1,
+          "text": "Walter's car broke down on the way to the studio on the first day of the sessions."
+        },
+        {
+          "id": 2,
+          "text": "We ate pizza in the control room."
+        },
+        {
+          "id": 3,
+          "text": "Boy, \"Do It Again\" sure has a great groove."
+        }
+      ]
+    },
+    {
+      "albumTitle": "Countdown to Ecstasy",
+      "pages": [
+        {
+          "id": 1,
+          "text": "I learned the songs sitting in my hotel room while watching Mike Douglas on TV."
+        },
+        {
+          "id": 2,
+          "text": "Donald Fagen's synthesizer sure was silky smooth on \"King of the World.\""
+        },
+        {
+          "id": 3,
+          "text": "We ate pizza in the control room."
+        }
+      ]
+    },
+    {
+      "albumTitle": "Pretzel Logic",
+      "pages": [
+        {
+          "id": 1,
+          "text": "I really tried to get Walter and Donald to tell me what \"Rikki Don't Lose That Number\" was about, but they wouldn't."
+        },
+        {
+          "id": 2,
+          "text": "I'm not just a musician who played with Steely Dan, I'm also a fan. Pretzel Logic is one of my favorite albums of all time."
+        },
+        {
+          "id": 3,
+          "text": "We ate pizza in the control room."
+        }
+      ]
+    },
+    {
+      "albumTitle": "Katy Lied",
+      "pages": [
+        {
+          "id": 1,
+          "text": "We ate pizza in the control room."
+        }
+      ]
+    },
+    {
+      "albumTitle": "The Royal Scam",
+      "pages": [
+        {
+          "id": 1,
+          "text": "By the time we recorded The Royal Scam I knew Steely Dan was making music that would hold up over time. Boy, was I right."
+        },
+        {
+          "id": 2,
+          "text": "We ate pizza in the control room."
+        }
+      ]
+    },
+    {
+      "albumTitle": "Aja",
+      "pages": [
+        {
+          "id": 1,
+          "text": "I remember hearing the playback of \"Peg\" for the first time. It's a great song with a great arrangement."
+        },
+        {
+          "id": 2,
+          "text": "We ate pizza in the control room."
+        },
+        {
+          "id": 3,
+          "text": "Donald told me that he thinks \"Deacon Blues\" is one of the best songs he's written."
+        }
+      ]
+    },
+    {
+      "albumTitle": "Gaucho",
+      "pages": [
+        {
+          "id": 1,
+          "text": "Donald and Walter knew exactly what they wanted for each song, and they wouldn't stop until they got it from the musicians."
+        },
+        {
+          "id": 2,
+          "text": "We ate pizza in the control room."
+        }
+      ]
+    }
+  ]
+}

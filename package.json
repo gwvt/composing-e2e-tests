@@ -9,9 +9,13 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "buefy": "^0.6.3",
+    "bulmaswatch": "^0.6.2",
+    "to-camel-case": "^1.0.0",
     "vue": "^2.5.13",
     "vue-router": "^3.0.1",
-    "vuex": "^3.0.1"
+    "vuex": "^3.0.1",
+    "vuex-persistedstate": "^2.5.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-beta.6",

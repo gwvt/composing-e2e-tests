@@ -1,0 +1,49 @@
+{
+  "instrumentsPages": [
+    {
+      "instrument": "saxophone",
+      "pages": [
+        {
+          "id": 1,
+          "text": "The saxophone is so shiny."
+        }
+      ]
+    },
+    {
+      "instrument": "keyboard",
+      "pages": [
+        {
+          "id": 1,
+          "text": "I like pianos."
+        }
+      ]
+    },
+    {
+      "instrument": "guitar",
+      "pages": [
+        {
+          "id": 1,
+          "text": "The bass only has 4 strings, and the piano has 88 keys. Six strings on a guitar was always just right for me."
+        }
+      ]
+    },
+    {
+      "instrument": "bass",
+      "pages": [
+        {
+          "id": 1,
+          "text": "The bass is the noblest of all stringed instruments."
+        }
+      ]
+    },
+    {
+      "instrument": "drums",
+      "pages": [
+        {
+          "id": 1,
+          "text": "I like playing drums because you get to  bang things really hard."
+        }
+      ]
+    }
+  ]
+}
