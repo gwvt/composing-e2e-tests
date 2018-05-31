@@ -1,1 +1,7 @@
-Check out branch 00 to begin.
+00
+
+Run `npm run serve` to see the app. The user sees what's over the hood, notes for the developer are under the hood. The app runs on two layers of configuration, one delivered to the user/client -- musicians who played on Steely Dan albums -- and one selected by the user in the course of using the app -- choosing an album to relive some memories from.
+
+This demonstration shows one approach to building a testing suite which is 1) composable, in order to cover these overlapping configuration sets without rewriting tests, and 2) dynamically generated from the application data store, in order to avoid managing which configuration subsets need to be included for each user/client.
+
+See an initial pass at a test for musician Larry Carlton in tests/e2e/specs. `npm run e2e` runs the tests.
