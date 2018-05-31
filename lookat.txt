@@ -1,0 +1,4 @@
+05
+
+Add musician-tests.js.
+Add now-3-line spec files for each available musician.
