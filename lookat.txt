@@ -1,0 +1,5 @@
+01
+
+Move tests for the user-level 'guitar' configuration to tests/e2e/sequences/instruments/guitar.js.
+
+Add spec file for musician Denny Dias/dennyd.
