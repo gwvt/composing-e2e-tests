@@ -1,0 +1,4 @@
+04
+
+Add albums/all.js & instruments/all.js to bundle tests for all available configurations.
+Add queries to dynamically generate tests for each musician.
