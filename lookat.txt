@@ -1,0 +1,7 @@
+03
+
+Add tests for all albums configurations.
+Add tests for all instrument configurations.
+Add spec file for musician Tom Scott/toms.
+Add helpers module with test to dynamically configure for musician.
+Hijack npm script "e2e" with shell script run-tests.sh to make it easier to run individual tests, like this: `npm run e2e larryc` (instead of `npm run e2e tests/e2e/specs/larryc`).
