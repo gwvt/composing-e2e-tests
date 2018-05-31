@@ -1,0 +1,3 @@
+02
+
+Move tests for the user-selected configuration for album 'Aja' to tests/e2e/sequences/albums/aja.js.
