@@ -1,7 +1,7 @@
 const camel = require('to-camel-case');
 
-const instruments = require('../sequences/instruments/all.js');
-const albums = require('../sequences/albums/all.js');
+const instruments = require('../sequences/instruments');
+const albums = require('../sequences/albums');
 const helpers = require('../helpers.js');
 
 const data = require('../data-api/data.js');
