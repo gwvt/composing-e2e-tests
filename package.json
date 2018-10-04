@@ -2,7 +2,7 @@
   "name": "composing-e2e-tests",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gwvt.github.io/composing-e2e-tests",
+  "homepage": "https://github.com/gwvt/composing-e2e-tests",
   "scripts": {
     "serve": "vue-cli-service serve --open",
     "build": "vue-cli-service build",
