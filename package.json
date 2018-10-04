@@ -1,12 +1,14 @@
 {
-  "name": "presentation",
+  "name": "composing-e2e-tests",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gwvt.github.io/composing-e2e-tests",
   "scripts": {
     "serve": "vue-cli-service serve --open",
     "build": "vue-cli-service build",
-    "e2e": "tests/e2e/run-tests.sh",
-    "lint": "vue-cli-service lint"
+    "e2e": "vue-cli-service e2e",
+    "lint": "vue-cli-service lint",
+    "deploy": "node ./node_modules/vue-gh-pages/index.js"
   },
   "dependencies": {
     "buefy": "^0.6.3",
@@ -25,6 +27,7 @@
     "@vue/eslint-config-airbnb": "^3.0.0-beta.6",
     "node-sass": "^4.7.2",
     "sass-loader": "^6.0.6",
+    "vue-gh-pages": "^1.19.0",
     "vue-template-compiler": "^2.5.13"
   },
   "browserslist": [
