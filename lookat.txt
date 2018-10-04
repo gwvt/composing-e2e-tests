@@ -2,3 +2,4 @@
 
 Add musician-tests.js.
 Add now-3-line spec files for each available musician.
+Keep musicians in separate files so Nightwatch reporting logs them as separate test suites.
